@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://app.hiilver.vps-kinghost.net/",
+  "homepage" : "https://app.gustavohenrique.dev.br",
   "dependencies": {
     "@date-io/date-fns": "^2.14.0",
     "@emotion/react": "^11.11.1",
